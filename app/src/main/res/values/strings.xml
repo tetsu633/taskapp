@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TaskApp</string>
+    <string name="label_date">日付</string>
+    <string name="label_type">種別</string>
+    <string name="label_content">内容</string>
+    <string name="label_type_breakfast">朝食</string>
+    <string name="label_type_lunch">昼食</string>
+    <string name="label_type_dinner">夕食</string>
+    <string name="label_content_type">品目</string>
+    <string name="label_content_cal">カロリー</string>
 </resources>
